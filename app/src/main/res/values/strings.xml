@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="button">按钮</string>
+    <string name="show">显示</string>
+    <string name="hide">隐藏</string>
+    <string name="image">图片</string>
+    <string name="checkbox">复选框</string>
+</resources>
